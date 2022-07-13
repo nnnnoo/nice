@@ -2,18 +2,20 @@
 
 
 
-; 2022-06 Windows 10 1809 基于 x64 系统的累计更新
+; 2022-07 Windows 10 1809 基于 x64 系统的累计更新
 
-_1809x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
+_1809x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/07/windows10.0-kb5015811-x64_f850429a022ae53bcebad5e99369adff8b663489.msu
 
 
 
-; 2022-06 Windows 10 1809 基于 x86 系统的累计更新
+; 2022-07 Windows 10 1809 基于 x86 系统的累计更新
 
-_1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x86_22d2572f5e50f0d9402c81b3731e21469a2c98f9.msu
+_1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5015811-x86_874fce593c8b96a28380eeacae801a5d3ca6ab58.msu
 
-; 2022-适用于 Windows 10 Version 21H2 的 04 累积更新，适合基于 x86 的系统 
-_21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x86_916966df97853467bae23eeb27fe3d9a938e459e.msu
+
+; 2022-适用于 Windows 10 Version 21H2 的 07 累积更新，适合基于 x86 的系统 
+_21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/07/windows10.0-kb5015807-x86_f8b27df705faab3fe1deafe9fedeed8b9c7e2e6a.msu
+
 
 ; 2022-适用于 Windows 10 Version 21H2 的 06 累积更新，适合基于 x64 的系统 
 _21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5012599-x64_bc0efec7eb2782ac45b1749fb902a80e16832c4a.msu
